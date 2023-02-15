@@ -1,7 +1,7 @@
-### Olá! Eu sou a Emy Batista 👋
+### Olá! Eu sou a Emy Batista 👋🏿
 
 
-- 🌱 Estudando  HTML, CSS, JavaScript, React, Java ...
+- 🌱 Estudando  HTML, CSS, JavaScript, TypeScript, React, Java, SQL, MongoDB ...
 - 📫 Contate-me no email: emelisilva159@gmail.com
 - 😄 Pronouns: ela/dela ...
 
