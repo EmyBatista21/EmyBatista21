@@ -1,9 +1,5 @@
 # Olá! Eu sou a Emy Batista 👋🏿
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EmyBatista21/EmyBatista21/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ### 🚀 Sobre mim
 - 🎓 **Graduanda em Análise e Desenvolvimento de Sistemas** pelo **IFBA**.
 - 🏆 Formada pelo **Vem Ser DBC** (DBC Company).
@@ -61,17 +57,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/EmyBatista21">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmyBatista21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
-  </a>
-  <a href="https://github.com/EmyBatista21">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmyBatista21&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="170" />
-  </a>
-</div>
-
----
 
 ### 📱 Redes Sociais & Contato
 <div align="left">
